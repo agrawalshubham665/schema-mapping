@@ -1,0 +1,5 @@
+
+APP_TITLE = "SchemaMapper PRO 🧩"
+API_KEY=""
+AZURE_ENDPOINT=""
+API_VERSION="2025-01-01-preview"
